@@ -17,7 +17,7 @@ namespace PRACTICA
         {
             get
             {
-                return CANTVEND * Pu;
+                return CANTVEND * Pu; 
             }
 
 
